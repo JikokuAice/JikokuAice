@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Ayush karki a final year student doing CS.
 - 👀 I’m interested in backend , flutter and fundamentals of Computer Science.
-- 🌱 I’m currently learning DSA and flutter.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Asp.NET,AI and Advance SQL.
 - 📫 How to reach me aicekark@gmail.com
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: i will try again.
+- ⚡ Fun fact: I shall christen my stand.... Made in heaven
 
 <!---
 JikokuAice/JikokuAice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
