@@ -4,8 +4,9 @@
 - 📫 How to reach me aicekark@gmail.com
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I shall christen my stand.... Made in heaven
-![LeetCode Stats](https://leetcard.jacoblin.cool/JikokuAice?theme=light&font=Kosugi&ext=heatmap)
+
 <!---
 JikokuAice/JikokuAice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![LeetCode Stats](https://leetcard.jacoblin.cool/JikokuAice?theme=light&font=Kosugi&ext=heatmap)
