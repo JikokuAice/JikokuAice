@@ -5,7 +5,7 @@
 - 😄 Pronouns: he / him
 - ⚡ Fun fact: I shall christen my stand.... Made in heaven
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JikokuAice?theme=light&font=Kosugi&ext=heatmap)
+
 
 <!---
 JikokuAice/JikokuAice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
