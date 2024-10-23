@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ayush karki a final year student doing CS.
-- 👀 I’m interested in backend , flutter and fundamentals of Computer Science.
+- 👀 I’m interested in backend, Devops and fundamentals of Computer Science.
 - 🌱 I’m currently learning Asp.NET,AI and Advance SQL.
 - 📫 How to reach me aicekark@gmail.com
 - 😄 Pronouns: he / him
