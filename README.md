@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Asp.NET,AI and Advance SQL.
 - 📫 How to reach me aicekark@gmail.com
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I shall christen my stand.... Made in heaven
-
+- ⚡ Fun fact: I shall christen my stand....「 ✦ Made in Heaven ✦ 」
 ![LeetCode Stats](https://leetcard.jacoblin.cool/JikokuAice?theme=light&font=Allerta&ext=activity)
 
 <!---
