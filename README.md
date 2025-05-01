@@ -1,12 +1,17 @@
-- 👋 Hi, I’m Ayush karki a final year student doing CS.
-- 👀 I’m interested in backend, Devops and fundamentals of Computer Science.
-- 🌱 I’m currently learning Asp.NET,AI and Advance SQL.
-- 📫 How to reach me aicekark@gmail.com
-- 😄 Pronouns: he / him
-- ⚡ Fun fact: I shall christen my stand....「 ✦ Made in Heaven ✦ 」
-![LeetCode Stats](https://leetcard.jacoblin.cool/JikokuAice?theme=light&font=Allerta&ext=activity)
+# 👋 Hey, I’m Ayush Karki
 
-<!---
-JikokuAice/JikokuAice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Final year CS student | 🔧 Backend & DevOps Enthusiast | 🧠 Computer Science Fundamentals Explorer
+
+## 🚀 Tech Focus
+
+- 🔙 **Backend Development** — currently building with `ASP.NET Core`
+- ⚙️ **DevOps** — exploring CI/CD, containers, and cloud
+- 🧠 **CS Fundamentals** — obsessed with algorithms, OS, DBMS, and system design
+- 📊 **Learning** — `Advanced SQL`, `AI basics`, and production-grade architecture
+
+## 🧰 Tech Stack
+
+```csharp
+Languages: C#, SQL, JavaScript
+Frameworks: ASP.NET Core, Entity Framework, React
+Tools: GitHub Actions, Linux CLI
